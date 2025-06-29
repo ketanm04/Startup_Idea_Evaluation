@@ -638,6 +638,8 @@ st.markdown("---")
 st.markdown(f"*Powered by RAG with {VECTOR_DB.upper()}, Phi-2 LLM, and real Crunchbase data*")
 st.markdown("*Analysis based on semantic similarity to historical startup performance*")
 
+#to create new venv
+#python -m venv venv
 #to start 
 #.\venv\Scripts\activate
 #pip install -r requirements.txt
